@@ -1,0 +1,38 @@
+/******************************TAG_SELECTOR************************************/
+body {
+  background-color: #457B9D;
+}
+
+h1 {
+  font-family: 'Knewave', cursive;
+  color: #E63946;
+  font-size: 6rem;
+  margin: 20px;
+}
+
+footer {
+  font-family: 'Cedarville Cursive', cursive;
+  margin-top: 5%;
+  color: #F1FAEE;
+  text-align: center;
+}
+
+img {
+  width: 70%;
+}
+
+/*****************************CLASS_SELECTOR***********************************/
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 1.7rem;
+  color: #A8DADC;
+  display: inline-block;
+  text-align: center;
+  margin: 0 3%;
+}
